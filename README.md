@@ -1,2 +1,0 @@
-# IDEA-setting
-IDEA setting 
