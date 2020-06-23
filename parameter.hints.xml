@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="javax.swing.AbstractButton.addActionListener(l)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
