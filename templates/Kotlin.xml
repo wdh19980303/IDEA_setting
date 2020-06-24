@@ -1,0 +1,3 @@
+<templateSet group="Kotlin">
+  <template name="ps" value="public static" description="public static" toReformat="false" toShortenFQNames="true" />
+</templateSet>
